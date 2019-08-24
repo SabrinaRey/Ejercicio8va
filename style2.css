@@ -1,0 +1,40 @@
+body {
+    background-color: #1abc9c;
+    color:#ffffff;
+    text-align: center;  
+  margin: 0;
+  padding-top: 50px;
+  font-family: 'Montserrat', sans-serif;
+    
+}
+
+hr {
+    width: 5%;
+    border-style: solid;
+}
+
+#wrap {
+    display:inline-block;
+    text-align:left;
+     
+        
+        
+}
+.p1 {
+    width:100px;
+    display:block;
+    float: left;
+    margin: 20px;
+         
+    
+}
+.p2 {
+    width:100px;
+        display:block;
+    float: right;
+    margin: 20px;
+      
+  
+  
+}
+
